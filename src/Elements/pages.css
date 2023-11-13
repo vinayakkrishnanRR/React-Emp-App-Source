@@ -1,0 +1,23 @@
+.table{   
+    background-color: rgba(132, 211, 152, 0.726);
+}
+
+body{
+    background: rgb(178, 188, 170);
+    background: radial-gradient(circle, rgb(145, 152, 138) 0%, rgb(74, 92, 68) 77%, rgb(97, 114, 102) 100%);
+}
+
+.contHead{
+    margin-left: 15%;
+    font-size: 400%;
+    color: rgb(0, 0, 0);
+}
+
+.formHead{
+    font-size: 250%;
+}
+
+.dashHead{
+    font-size: 800%;
+}
+
